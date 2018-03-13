@@ -49,7 +49,7 @@ apis:
   tags: Commodity
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/commodity/master/_listings/xignite/gethistoricalcommoditymonthlyrange-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/commodity/master/_listings/xignite/gethistoricalcommoditychart-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
