@@ -1,10 +1,10 @@
-title: Streamdata Gallery Commodity
-url: commodity.streamdata.gallery
-tag: Commodity
+title: Streamdata Gallery Commodities
+url: commodities.streamdata.gallery
+tag: Commodities
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: commodity
+github_repo: commodities
 github_branch: master
 collections:
   listings:
